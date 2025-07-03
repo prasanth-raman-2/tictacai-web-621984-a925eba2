@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tictacai-web-621984-a925eba2/main_frontend"
+}
